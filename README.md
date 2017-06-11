@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/anteriovieira/vue-google-maps-example/master/media/mobile-maps.png" />
+</p>
+
 ## Build Setup
 
 ``` bash
